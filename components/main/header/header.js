@@ -1,0 +1,1 @@
+export const link=`<link rel="stylesheet" href="assets/css/bootstrapcss/bootstrap.min.css">`;
